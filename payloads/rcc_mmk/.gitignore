@@ -1,0 +1,9 @@
+build/
+.vscode/
+fs.img
+user/efs-fuse
+unixbench/*.o
+unixbench/*.d
+user/build
+os/build
+libc/build

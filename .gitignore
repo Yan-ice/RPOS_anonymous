@@ -1,0 +1,3 @@
+output/*
+codes/mmk/target/
+qemu-system*
